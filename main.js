@@ -9,7 +9,13 @@ function displayMadLib () {
     var nounFourInput = document.getElementById('noun-4');
 
     // get value of inputs
-
+    var nounOneInput = nounOneInput.value;
+    var pluralNounOneInput = pluralNounOneInput.value;
+    var properNounOneInput = properNounOneInput.value;
+    var adjectiveOneInput = adjectiveOneInput.value;
+    var nounTwoInput = nounTwoInput.value;
+    var nounThreeInput = nounThreeInput.value;
+    var nounFourInput = nounFourInput.value;
 
     // make the mad lib
 
