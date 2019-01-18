@@ -1,4 +1,4 @@
-function displayMadLib () {
+function madLib () {
     // get inputs by id
     var nounOneInput = document.getElementById('noun-1');
     var pluralNounOneInput = document.getElementById('plural-noun-1');
@@ -21,4 +21,5 @@ function displayMadLib () {
     var makeMadLib = 'Yesterday I went to the ' + nounOne + ', because I wanted ' + properNounOne + '. I walked on ' + properNounOne + ' and saw ' + adjectiveOne + ' dogs. At the store, they ran out of ' + nounTwo + ', so I bought ' + nounThree + ' instead. I love my new ' + nounFour + '!';
 
     // display mad lib
+    
 }
